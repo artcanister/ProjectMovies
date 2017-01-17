@@ -1,0 +1,14 @@
+h3 {
+	color: red;
+}
+.miniature {
+	max-width: 20%;
+	height: auto;
+}
+.miniature:hover {
+	max-width: 100%;
+	height: auto;
+}
+.flexBoxRow {
+	
+}

@@ -1,0 +1,607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"empty"
+			],
+			[
+				"p",
+				"p	<p>"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"in",
+				"inputs	input - submit"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"flexs",
+				"flex-start"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"if",
+				"if else"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"table",
+				"tablenumber"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tab",
+				"tabEntier"
+			],
+			[
+				"typ",
+				"typeAff"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"n",
+				"nbPhotocop"
+			],
+			[
+				"longue",
+				"longueur"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
+				"ty",
+				"typecmd"
+			],
+			[
+				"type",
+				"typecommande"
+			],
+			[
+				"W",
+				"width"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"hi",
+				"min-height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/17-PHP_Objet/Cours/LeConstrructeur.php",
+		"/Applications/MAMP/htdocs/Movies/public/index.php",
+		"/Applications/MAMP/htdocs/Movies/Grill/Controller/Dispatcher.php",
+		"/Applications/MAMP/htdocs/Movies/app/Entity/Movie.php",
+		"/Applications/MAMP/htdocs/Movies/app/routes.php",
+		"/Applications/MAMP/htdocs/Movies/app/Manager/MovieManager.php",
+		"/Applications/MAMP/htdocs/Movies/app/Controller/MovieController.php",
+		"/Applications/MAMP/htdocs/Movies/app/Controller/DefaultController.php",
+		"/Applications/MAMP/htdocs/Movies/Grill/Controller/BaseController.php",
+		"/Applications/MAMP/htdocs/Movies/app/templates/layout.php",
+		"/Applications/MAMP/htdocs/Movies/Grill/Model/Db.php",
+		"/Applications/MAMP/htdocs/Movies/app/config.php",
+		"/Applications/MAMP/htdocs/Movies/public/css/style.css",
+		"/Applications/MAMP/htdocs/Movies/app/templates/single.php",
+		"/Applications/MAMP/htdocs/Movies/Grill/View/View.php",
+		"/Applications/MAMP/htdocs/Movies/app/templates/legals.php",
+		"/Applications/MAMP/htdocs/Movies/app/templates/faq.php",
+		"/Users/formation/Documents/•••IMIE WMD/21-PHP Objet/TP/index.php",
+		"/Users/formation/Documents/•••IMIE WMD/21-PHP Objet/TP/Movie.php",
+		"/Volumes/Commun/_CLIENTS/Neotherm_86/C16100_PRE_NEOTHERM/LOGO/logo_Neotherm.svg",
+		"/Volumes/Commun/Informatique/gdh-dev (2).sql",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/src/Gdh/CRMBundle/Controller/BusinessController.php",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/src/Gdh/CRMBundle/Backup/Entity copie.old 2016-04-25/AclObjectIdentities.php",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/src/Gdh/CRMBundle/Admin/StatusBusinessAdmin.php",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/src/Gdh/CRMBundle/Entity/Appointment.php",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/src/Gdh/CRMBundle/Entity/CityRepository.php",
+		"/Applications/MAMP/htdocs/18_PHP PDO/src/view/index.php",
+		"/Applications/MAMP/htdocs/18_PHP PDO/src/view/formPower.php",
+		"/Applications/MAMP/htdocs/18_PHP PDO/src/view/formpower.php",
+		"/Applications/MAMP/htdocs/17-PHP_Objet/imie-php-oo-shared_LAST/todo/ItemListManager.php",
+		"/Applications/MAMP/htdocs/essai_php/exo12.php",
+		"/Users/formation/Library/Caches/Coda 2/42CAA498-1511-4FA3-976F-C75D656DA7FA/base.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/C4992FE1-908C-4E9B-BC39-D1F3249428E5/nav.js",
+		"/Users/formation/Library/Caches/Coda 2/AB41084B-CE79-475F-92FF-65E407AEBABB/page.css",
+		"/Users/formation/Library/Caches/Coda 2/E91456F0-47A2-44CD-BDC2-D354F3B904DA/dashboard.html.twig",
+		"/Users/formation/Desktop/doughnutPIe.twig",
+		"/Users/formation/Library/Caches/Coda 2/90442C86-00A5-47A1-9F11-D329E0BB850F/index.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/8C41E81C-58CA-467A-9B23-72F96D6C63C8/base.html.twig",
+		"/Users/formation/Desktop/OLD_base.html.twig",
+		"/Applications/Homeworld Deserts of Kharak/out/cloud/Checkpoint (Autosave).sbsave",
+		"/Applications/Homeworld Deserts of Kharak/out/cloud/M04.sbfleet",
+		"/Users/formation/Library/Caches/Coda 2/F3C29642-7896-4523-895D-4B0DEB90C03D/AppealType.php",
+		"/Users/formation/Library/Caches/Coda 2/CE9631AA-2B99-4ED0-8279-EE5170BE6193/index.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/FAEB9C7D-7870-48C2-9B95-7BB31020EE89/newadd.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/5175F30B-72AA-44AA-B812-7B26DB571B52/BusinessNewType.php",
+		"/Users/formation/.gitconfig",
+		"/Users/formation/Library/Caches/Coda 2/DBC33BC4-F9EC-4E1B-BC0D-B053F2669D9C/Appointment.php",
+		"/Users/formation/Library/Application Support/Übersicht/widgets/fuzzytime.widget/index.coffee",
+		"/Users/formation/Library/Caches/Coda 2/5DE94FA1-4AA0-4599-B6D8-063BE8FA75BA/page.css",
+		"/Users/formation/Library/Application Support/Übersicht/widgets/wordClock.coffee",
+		"/Users/formation/Library/Caches/Coda 2/7D57E64E-6B1C-4157-92F2-637CC60F16B6/nav.js",
+		"/Users/formation/Library/Caches/Coda 2/37F68F4C-2ABD-4FA1-993A-0E8763BD46F1/new.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/DC58F1D0-81D2-40FE-94C7-60AC2B04B898/base.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/40C52CD2-846F-4FD8-9667-CF52E6FD9F06/dashboard_telemarketer.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/681E4A60-3409-4810-803C-3D6A823B4CF4/dashboard.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/4E3E90BB-41A4-4CB8-A43C-0E869E3E8D5F/base.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/729FFF23-A135-4D53-9744-B7C19D993A01/productslist.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/8E226B95-EBA1-4370-94DF-94A669BB3FD3/nav.js",
+		"/Users/formation/Library/Caches/Coda 2/4A7F5549-1F62-4698-99F2-6DFFC62C2210/showlist.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/6B3538F3-8794-4812-9F96-8313B62A4852/nav.js",
+		"/Users/formation/Library/Caches/Coda 2/AB8984C9-8F0C-4617-A4D7-5C2D9E27DA22/dashboard.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/0E9A84E2-1CAE-4818-8FF6-419679DA0D30/page.css",
+		"/Users/formation/Library/Caches/Coda 2/9E0E3993-9C87-442C-9DF5-F495CBD10E83/base.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/AAC3FFDF-5B88-4B94-99DD-5E2BFE757FF5/index.html.twig",
+		"/Users/formation/Desktop/menu.css",
+		"/Users/formation/Desktop/test.html",
+		"/Users/formation/Library/Caches/Coda 2/35600EBC-E4CF-48CB-A23B-9C314A47A080/base.html.twig",
+		"/Users/formation/Library/Caches/Coda 2/016D4DE3-AEA6-4FD0-9DDD-E69212A53DB0/styles_mod.css",
+		"/Users/formation/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/IMIE_PHPProcedural/tablenumber.php",
+		"/Applications/MAMP/htdocs/phpunit-master/test map.html",
+		"/Users/formation/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Applications/MAMP/htdocs/DEV_GDH/CRM_DEV_structuresite/MenuBar/index_mod.html",
+		"/Applications/MAMP/htdocs/DEV_GDH/Dev_MenuBar/nav_mod.js",
+		"/Applications/MAMP/htdocs/DEV_GDH/Dev_MenuBar/index_mod.html",
+		"/Applications/MAMP/htdocs/DEV_GDH/Dev_MenuBar/styles_mod.css",
+		"/Applications/MAMP/htdocs/essai_php/exercie.php",
+		"/Applications/MAMP/htdocs/essai_php/bonjour.php",
+		"/Users/formation/symfony_demo/app/AppKernel.php",
+		"/Applications/MAMP/conf/php5.3.28/php.ini",
+		"/Applications/MAMP/htdocs/Symfony/vendor/doctrine/cache/tests/travis/php.ini",
+		"/Volumes/Commun/NouveauSite/DEV_EXTRANET/view-source_devilcoyote.fr_GdhCom_web_app_dev.php_business_new.htm",
+		"/Users/formation/Documents/•••Guide de l'habitat/REPO_guide de l'habitat/GdhCom/web/app_dev.php",
+		"/Users/formation/Downloads/index.php",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/LechauxMenier_fichiers/base.css",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/LechauxMenier_fichiers/settings.css",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/LechauxMenier_fichiers/responsive.css",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/LechauxMenier_fichiers/jquery.css",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/LechauxMenier.html",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/Plombier chauffagiste Beuxes (86120), Chinon (37500), Lechaux Ménier.html",
+		"/Volumes/MYL PERRIEN/administration bdd.sql",
+		"/Volumes/MYL PERRIEN/wmd02.sql",
+		"/Users/formation/Desktop/Test/test.html",
+		"/Users/formation/Downloads/dump.sql",
+		"/usr/local/git/etc/gitconfig",
+		"/Users/formation/Downloads/jquery-mouse-hover-effect-with-parallax-style-tutorial/index.html",
+		"/Volumes/Commun/_CLIENTS/BLINLaurent_86/F11177_PRE_BLINDLaurent_SARL/ICONE_MENU/MENU_PLOMB_ROLLON_90x90.html",
+		"/Volumes/Commun/_CLIENTS/LECHAUXMenier_86/Archive Web/Plombier chauffagiste Beuxes (86120), Chinon (37500), Lechaux Ménier.htm",
+		"/Users/formation/Desktop/Untitled-3/Untitled-3.html",
+		"/Users/formation/Documents/•••IMIE WMD/10 - GIT/GitTraining/README.md",
+		"/Applications/MAMP/htdocs/Symfony/app/AppKernel.php",
+		"/Users/formation/Library/Application Support/Homeworld Remastered Collection/RM/Profiles/Profile1/Campaign/ASCENSION/persist5.lua",
+		"/Users/formation/Documents/•••IMIE WMD/08 - SQL/cours1.sql",
+		"/Users/formation/.oh-my-zsh/oh-my-zsh.sh",
+		"/Users/formation/Library/Application Support/Homeworld Remastered Collection/RM/Profiles/Profile1/Campaign/ASCENSION/persist2.lua",
+		"/Users/formation/Library/Application Support/Homeworld Remastered Collection/RM/Profiles/Profile1/Campaign/HOMEWORLDCLASSIC/persist10.lua",
+		"/Users/formation/Library/Application Support/Homeworld Remastered Collection/RM/Profiles/Profile1/Campaign/HOMEWORLDCLASSIC/persist11.lua",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/public/index.html",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/public/inventory.html",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/public/css/game.css",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/src/less/character.css",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/public/character",
+		"/Users/formation/Documents/•••IMIE/17 - TP Synthèse/DOcuments TP/hashtagswag/src/less/game.less",
+		"/controleur_ticker.js",
+		"/Users/formation/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_set",
+			"private",
+			"\">\n",
+			"=\"\"",
+			";\n",
+			"center",
+			"_TELEPRO",
+			"{#{% if is_granted('ROLE_COMMERCIAL') || is_granted('ROLE_TELEPRO') %}#}",
+			"-->",
+			"<!--",
+			"            {% endif %}",
+			"-->",
+			"<!--",
+			"</td>",
+			"tr",
+			"<td",
+			"40",
+			"\n    ",
+			";\n",
+			"\n}",
+			";\n",
+			"  // color: #9b9795;\n",
+			"\"><",
+			";\n",
+			"\n// article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }\n// ol, ul { list-style: none; }",
+			"\n  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_TELEMARKETER",
+			"{#{% if is_granted('ROLE_COMMERCIAL') || is_granted('ROLE_TELEPRO') || is_granted('ROLE_CHEF') %}#}",
+			"#}",
+			"{#",
+			"ro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Db.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
